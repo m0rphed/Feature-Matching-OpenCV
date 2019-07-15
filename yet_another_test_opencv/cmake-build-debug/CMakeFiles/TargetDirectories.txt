@@ -1,3 +1,3 @@
-/home/vic/my_proj/comp_vis_notes/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/vic/my_proj/comp_vis_notes/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/yet_another_test_opencv.dir
-/home/vic/my_proj/comp_vis_notes/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egorgusev/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/egorgusev/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/egorgusev/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/yet_another_test_opencv.dir

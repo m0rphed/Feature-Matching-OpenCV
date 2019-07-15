@@ -4,14 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/vic/my_proj/comp_vis_notes/OpenCvInClion/yet_another_test_opencv/main.cpp" "/home/vic/my_proj/comp_vis_notes/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/yet_another_test_opencv.dir/main.cpp.o"
+  "/Users/egorgusev/OpenCvInClion/yet_another_test_opencv/main.cpp" "/Users/egorgusev/OpenCvInClion/yet_another_test_opencv/cmake-build-debug/CMakeFiles/yet_another_test_opencv.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/anaconda/include"
-  "/usr/local/anaconda/include/opencv"
+  "/usr/local/include/opencv4"
   )
 
 # Targets to which this target links.
