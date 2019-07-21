@@ -1,4 +1,4 @@
-# OpenCvInClion
+# Feature Matching using OpenCV
 Working with OpenCV in C++ using CLion
 
 **Documentation**:
